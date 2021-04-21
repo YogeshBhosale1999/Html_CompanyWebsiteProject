@@ -1,2 +1,1 @@
-# UmbrellaCorp
-This is for recreational purposes
+This repository includes basic bootstrap projects
