@@ -1,1 +1,1 @@
-This repository includes basic bootstrap projects
+This is an IT company demo website
